@@ -10,6 +10,7 @@ pip install --upgrade pip
 pip install numpy
 pip install opencv-python
 pip install matplotlib
+pip install imutils
 ```
 
 
