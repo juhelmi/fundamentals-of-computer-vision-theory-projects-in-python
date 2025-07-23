@@ -9,6 +9,7 @@ Things that have worked in project creation time do not work in same way today.
 pip install --upgrade pip
 pip install numpy
 pip install opencv-python
+pip install opencv-contrib-python
 pip install matplotlib
 pip install imutils
 ```
